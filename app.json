@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"white",
+    "navigationBarBackgroundColor": "white",
+    "navigationBarTitleText": "农行微服务 ",
+    "navigationBarTextStyle":"black"
+  }
+}
